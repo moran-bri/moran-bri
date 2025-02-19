@@ -1,2 +1,5 @@
-# Brielle Moran
-# Computer Science & Business Administration Student at Northeastern University, Class of 2028
+# Brielle Moran's Resume
+# Education
+Computer Science & Business Administration Student
+Northeastern University
+Class of 2028
